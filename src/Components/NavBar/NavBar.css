@@ -1,0 +1,44 @@
+
+header {
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+    position: sticky;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 64px;   
+}
+.Navbar{
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 0px 80px;
+    justify-content: space-between;
+}
+.NavLogo{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    gap: 12px;
+}
+.search{
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+}
+.LogoColor{
+    color: #3d5af1;
+    font-weight: 600;
+}
+.LogoText {
+
+    font-weight: 600;
+}
+.search {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
