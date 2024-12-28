@@ -20,7 +20,7 @@ export const Subreddits = ({ name }) => {
           <button type="button">
 
               <img
-                src="https://via.placeholder.com/25"
+                src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/reddit-icon.png"
                 alt="subreddit-name"
                 className="subreddit-icon"
                 style={{ border: '3px solid' }}
